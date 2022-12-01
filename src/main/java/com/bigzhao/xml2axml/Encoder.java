@@ -1,6 +1,6 @@
 package com.bigzhao.xml2axml;
 
-import android.content.Context;
+import android2.content.Context;
 
 import com.bigzhao.xml2axml.chunks.Chunk;
 import com.bigzhao.xml2axml.chunks.StringPoolChunk;
@@ -11,7 +11,6 @@ import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 
 import java.io.*;
-import java.util.HashSet;
 
 /**
  * Created by Roy on 15-10-4.

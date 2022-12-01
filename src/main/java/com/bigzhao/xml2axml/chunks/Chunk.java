@@ -1,6 +1,6 @@
 package com.bigzhao.xml2axml.chunks;
 
-import android.content.Context;
+import android2.content.Context;
 
 import com.bigzhao.xml2axml.IntWriter;
 import com.bigzhao.xml2axml.ReferenceResolver;
@@ -9,7 +9,6 @@ import java.io.IOException;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
-import java.util.HashMap;
 
 /**
  * Created by Roy on 15-10-4.

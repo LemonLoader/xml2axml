@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package android.graphics;
+package android2.graphics;
 
 import java.util.HashMap;
 import java.util.Locale;

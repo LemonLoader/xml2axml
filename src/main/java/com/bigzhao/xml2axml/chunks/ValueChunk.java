@@ -1,6 +1,6 @@
 package com.bigzhao.xml2axml.chunks;
 
-import android.graphics.Color;
+import android2.graphics.Color;
 
 import com.bigzhao.xml2axml.ComplexConsts;
 import com.bigzhao.xml2axml.IntWriter;

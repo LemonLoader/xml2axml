@@ -1,15 +1,13 @@
 package com.bigzhao.xml2axml.chunks;
 
-import android.text.TextUtils;
+import android2.text.TextUtils;
 
 import com.bigzhao.xml2axml.Encoder;
 import com.bigzhao.xml2axml.IntWriter;
-import com.bigzhao.xml2axml.NotImplementedException;
 
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;

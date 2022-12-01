@@ -1,15 +1,9 @@
 package com.bigzhao.xml2axml.chunks;
 
-import android.graphics.Color;
-
-import com.bigzhao.xml2axml.ComplexConsts;
 import com.bigzhao.xml2axml.IntWriter;
-import com.bigzhao.xml2axml.NotImplementedException;
 import com.bigzhao.xml2axml.ValueType;
 
 import java.io.IOException;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * Created by Roy on 15-10-5.

@@ -1,6 +1,6 @@
 package com.bigzhao.xml2axml.test;
 
-import android.content.Context;
+import android2.content.Context;
 import com.bigzhao.xml2axml.Encoder;
 import org.apache.commons.io.FileUtils;
 import org.xmlpull.v1.XmlPullParserException;

@@ -1,6 +1,6 @@
 package com.bigzhao.xml2axml.chunks;
 
-import android.content.Context;
+import android2.content.Context;
 
 import com.bigzhao.xml2axml.DefaultReferenceResolver;
 import com.bigzhao.xml2axml.IntWriter;

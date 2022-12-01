@@ -13,10 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package android.content.res;
+package android2.content.res;
 
 import org.xmlpull.v1.XmlPullParser;
-import android.util.AttributeSet;
+import android2.util.AttributeSet;
 
 /**
  * @author Dmitry Skiba

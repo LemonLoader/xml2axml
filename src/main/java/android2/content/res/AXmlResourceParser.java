@@ -13,13 +13,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package android.content.res;
+package android2.content.res;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.Reader;
 import org.xmlpull.v1.XmlPullParserException;
-import android.util.TypedValue;
+import android2.util.TypedValue;
 
 /**
  * @author Dmitry Skiba

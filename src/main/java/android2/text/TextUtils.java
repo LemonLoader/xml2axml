@@ -1,4 +1,4 @@
-package android.text;
+package android2.text;
 
 import org.apache.commons.lang3.StringUtils;
 

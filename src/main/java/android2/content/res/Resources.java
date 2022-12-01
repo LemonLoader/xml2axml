@@ -1,6 +1,6 @@
-package android.content.res;
+package android2.content.res;
 
-import javax.annotation.Resource;
+//import javax.annotation.Resource;
 import java.lang.reflect.Field;
 import java.util.HashMap;
 

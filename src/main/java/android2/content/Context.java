@@ -1,6 +1,6 @@
-package android.content;
+package android2.content;
 
-import android.content.res.Resources;
+import android2.content.res.Resources;
 
 /**
  * Created by Roy on 15-10-6.
