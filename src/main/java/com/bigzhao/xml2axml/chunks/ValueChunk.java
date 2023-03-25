@@ -158,10 +158,6 @@ public class ValueChunk extends Chunk<Chunk.EmptyHeader> {
                         type = ValueType.INT_BOOLEAN;
                         data = "true".equalsIgnoreCase(vp.val) ? 1 : 0;
                         break;
-                    case 4:
-                        type = ValueType.INT_DEC;
-                        data = Integer.parseInt(vp.val);
-                        break;
                     case 5:
                         type = ValueType.INT_HEX;
                         data = Integer.parseInt(vp.val.substring(2),16);
@@ -186,6 +182,7 @@ public class ValueChunk extends Chunk<Chunk.EmptyHeader> {
                         type = ValueType.INT_DEC;
                         data = "wrap_content".equalsIgnoreCase(vp.val) ? -2 : -1;
                         break;
+                    case 4: // These are numbers but we are gonna make them strings to prevent overflows
                     default:
                         type = ValueType.STRING;
                         realString=vp.val;
